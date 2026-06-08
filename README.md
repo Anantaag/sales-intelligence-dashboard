@@ -1,10 +1,42 @@
 # Smith Hardware Business Intelligence & Sales Analytics Platform
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![SQL](https://img.shields.io/badge/SQL-Queries-green)
+![DAX](https://img.shields.io/badge/DAX-Measures-orange)
+
 ## Overview
 
 This project is an end-to-end Business Intelligence solution developed for Smith Hardware to transform raw sales data into actionable business insights.
 
 The solution combines MySQL database design, SQL analysis, Power BI data modeling, DAX calculations, and Power BI Service deployment to provide decision-makers with interactive dashboards and performance monitoring capabilities.
+
+---
+## Dashboard Preview
+
+### Power BI Service Deployment
+
+![Power BI Service]<img width="1362" height="641" alt="image" src="https://github.com/user-attachments/assets/4527faa2-4b22-42a3-a889-fcf6cebe3d81" />
+
+
+### Executive Overview
+
+![Executive Overview]
+
+### Sales Analytics
+
+![Sales Analytics]<img width="901" height="507" alt="image" src="https://github.com/user-attachments/assets/5e574498-67c1-4ec2-903e-16247f398222" />
+
+
+### Regional & Customer Insights
+
+![Regional Insights]<img width="904" height="505" alt="image" src="https://github.com/user-attachments/assets/f0dfcb45-f213-4250-b6d1-c2b379d41166" />
+
+
+### Product Intelligence
+
+![Product Intelligence]<img width="902" height="501" alt="image" src="https://github.com/user-attachments/assets/736dd5e7-870f-41fe-84ed-35438101f184" />
+
 
 ---
 
@@ -126,24 +158,53 @@ and additional supporting measures.
 
 ## SQL Analysis
 
+## SQL Analysis
+
 The backend database was designed in MySQL using relational modeling principles and foreign key relationships.
 
 SQL was used to perform business analysis including:
 
-- Revenue Analysis by Region
-- Revenue Analysis by Customer Type
-- Product Performance Analysis
-- Category-wise Revenue Analysis
-- Customer Segmentation Analysis
-- Top Product Identification
+- Total Revenue, Orders, and Quantity by Region
+- Monthly Revenue Trend
+- Average Revenue Per Order
+- Top 5 Products by Revenue
+- Query Revenue generated per unit sold
+- Revenue and Share by Product Category
+- Regional Rank Using Window Functions
+- Customer Segment Analysis
 
-Techniques used:
+### Sample SQL Outputs
+
+#### Total Revenue, Orders, and Quantity by Region
+
+![Total Revenue, Orders, and Quantity by Region]<img width="583" height="194" alt="image" src="https://github.com/user-attachments/assets/1583e456-66ca-4982-98df-e033c716cf89" />
+
+
+#### Monthly Revenue Trend
+
+![Monthly Revenue Trend]<img width="544" height="198" alt="image" src="https://github.com/user-attachments/assets/f04b5f64-75e7-48cb-94a4-7cc6082102fe" />
+
+
+#### Regional Rank Using Window Functions
+
+![Regional Rank Using Window Functions]<img width="559" height="186" alt="image" src="https://github.com/user-attachments/assets/c9f9ef17-b681-452e-94ca-c4f1c7f240a9" />
+
+
+#### Revenue and Share by Product Category
+
+![Revenue and Share by Product Category]<img width="642" height="208" alt="image" src="https://github.com/user-attachments/assets/e8290f3c-cda8-43d1-8288-22598386c059" />
+
+
+### Techniques Used
 
 - JOINS
 - GROUP BY
 - Aggregate Functions
 - Subqueries
-- Common Business Reporting Queries
+- Business Reporting Queries
+- Window functions
+- Ranking
+
 
 ---
 
