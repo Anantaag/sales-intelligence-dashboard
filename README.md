@@ -21,7 +21,8 @@ The solution combines MySQL database design, SQL analysis, Power BI data modelin
 
 ### Executive Overview
 
-![Executive Overview]
+![Executive Overview]<img width="902" height="506" alt="image" src="https://github.com/user-attachments/assets/82c63372-6957-4638-afc2-3685eaba51ff" />
+
 
 ### Sales Analytics
 
