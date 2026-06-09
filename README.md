@@ -16,30 +16,26 @@ The solution combines MySQL database design, SQL analysis, Power BI data modelin
 
 ### Power BI Service Deployment
 
-[Power BI Service]
 <img width="1362" height="641" alt="image" src="https://github.com/user-attachments/assets/4527faa2-4b22-42a3-a889-fcf6cebe3d81" />
 
 
 ### Executive Overview
 
-[Executive Overview]
 <img width="902" height="506" alt="image" src="https://github.com/user-attachments/assets/82c63372-6957-4638-afc2-3685eaba51ff" />
 
 
 ### Sales Analytics
 
-![Sales Analytics]<img width="901" height="507" alt="image" src="https://github.com/user-attachments/assets/5e574498-67c1-4ec2-903e-16247f398222" />
+<img width="901" height="507" alt="image" src="https://github.com/user-attachments/assets/5e574498-67c1-4ec2-903e-16247f398222" />
 
 
 ### Regional & Customer Insights
 
-[Regional Insights]
 <img width="904" height="505" alt="image" src="https://github.com/user-attachments/assets/f0dfcb45-f213-4250-b6d1-c2b379d41166" />
 
 
 ### Product Intelligence
 
-[Product Intelligence]
 <img width="902" height="501" alt="image" src="https://github.com/user-attachments/assets/736dd5e7-870f-41fe-84ed-35438101f184" />
 
 
@@ -182,24 +178,21 @@ SQL was used to perform business analysis including:
 
 #### Total Revenue, Orders, and Quantity by Region
 
-![Total Revenue, Orders, and Quantity by Region]<img width="583" height="194" alt="image" src="https://github.com/user-attachments/assets/1583e456-66ca-4982-98df-e033c716cf89" />
+<img width="583" height="194" alt="image" src="https://github.com/user-attachments/assets/1583e456-66ca-4982-98df-e033c716cf89" />
 
 
 #### Monthly Revenue Trend
 
-[Monthly Revenue Trend]
 <img width="544" height="198" alt="image" src="https://github.com/user-attachments/assets/f04b5f64-75e7-48cb-94a4-7cc6082102fe" />
 
 
 #### Regional Rank Using Window Functions
 
-[Regional Rank Using Window Functions]
 <img width="559" height="186" alt="image" src="https://github.com/user-attachments/assets/c9f9ef17-b681-452e-94ca-c4f1c7f240a9" />
 
 
 #### Revenue and Share by Product Category
 
-[Revenue and Share by Product Category]
 <img width="642" height="208" alt="image" src="https://github.com/user-attachments/assets/e8290f3c-cda8-43d1-8288-22598386c059" />
 
 
