@@ -1,9 +1,9 @@
 # Smith Hardware Business Intelligence & Sales Analytics Platform
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
-![SQL](https://img.shields.io/badge/SQL-Queries-green)
-![DAX](https://img.shields.io/badge/DAX-Measures-orange)
+[Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+[MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+[SQL](https://img.shields.io/badge/SQL-Queries-green)
+[DAX](https://img.shields.io/badge/DAX-Measures-orange)
 
 ## Overview
 
@@ -16,12 +16,14 @@ The solution combines MySQL database design, SQL analysis, Power BI data modelin
 
 ### Power BI Service Deployment
 
-![Power BI Service]<img width="1362" height="641" alt="image" src="https://github.com/user-attachments/assets/4527faa2-4b22-42a3-a889-fcf6cebe3d81" />
+[Power BI Service]
+<img width="1362" height="641" alt="image" src="https://github.com/user-attachments/assets/4527faa2-4b22-42a3-a889-fcf6cebe3d81" />
 
 
 ### Executive Overview
 
-![Executive Overview]<img width="902" height="506" alt="image" src="https://github.com/user-attachments/assets/82c63372-6957-4638-afc2-3685eaba51ff" />
+[Executive Overview]
+<img width="902" height="506" alt="image" src="https://github.com/user-attachments/assets/82c63372-6957-4638-afc2-3685eaba51ff" />
 
 
 ### Sales Analytics
@@ -31,12 +33,14 @@ The solution combines MySQL database design, SQL analysis, Power BI data modelin
 
 ### Regional & Customer Insights
 
-![Regional Insights]<img width="904" height="505" alt="image" src="https://github.com/user-attachments/assets/f0dfcb45-f213-4250-b6d1-c2b379d41166" />
+[Regional Insights]
+<img width="904" height="505" alt="image" src="https://github.com/user-attachments/assets/f0dfcb45-f213-4250-b6d1-c2b379d41166" />
 
 
 ### Product Intelligence
 
-![Product Intelligence]<img width="902" height="501" alt="image" src="https://github.com/user-attachments/assets/736dd5e7-870f-41fe-84ed-35438101f184" />
+[Product Intelligence]
+<img width="902" height="501" alt="image" src="https://github.com/user-attachments/assets/736dd5e7-870f-41fe-84ed-35438101f184" />
 
 
 ---
@@ -183,17 +187,20 @@ SQL was used to perform business analysis including:
 
 #### Monthly Revenue Trend
 
-![Monthly Revenue Trend]<img width="544" height="198" alt="image" src="https://github.com/user-attachments/assets/f04b5f64-75e7-48cb-94a4-7cc6082102fe" />
+[Monthly Revenue Trend]
+<img width="544" height="198" alt="image" src="https://github.com/user-attachments/assets/f04b5f64-75e7-48cb-94a4-7cc6082102fe" />
 
 
 #### Regional Rank Using Window Functions
 
-![Regional Rank Using Window Functions]<img width="559" height="186" alt="image" src="https://github.com/user-attachments/assets/c9f9ef17-b681-452e-94ca-c4f1c7f240a9" />
+[Regional Rank Using Window Functions]
+<img width="559" height="186" alt="image" src="https://github.com/user-attachments/assets/c9f9ef17-b681-452e-94ca-c4f1c7f240a9" />
 
 
 #### Revenue and Share by Product Category
 
-![Revenue and Share by Product Category]<img width="642" height="208" alt="image" src="https://github.com/user-attachments/assets/e8290f3c-cda8-43d1-8288-22598386c059" />
+[Revenue and Share by Product Category]
+<img width="642" height="208" alt="image" src="https://github.com/user-attachments/assets/e8290f3c-cda8-43d1-8288-22598386c059" />
 
 
 ### Techniques Used
@@ -250,4 +257,4 @@ Additional reporting workflows were explored using:
 
 ## Project Outcome
 
-Developed and deployed a fully interactive 4-page Business Intelligence dashboard providing end-to-end visibility into sales performance, customer behavior, regional trends, and product intelligence for business decision-making.
+Developed and deployed a fully interactive 4 page Business Intelligence dashboard providing end to end visibility into sales performance, customer behavior, regional trends, and product intelligence for business decision making.
